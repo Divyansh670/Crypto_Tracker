@@ -34,8 +34,8 @@ CryptoTrack is a modern real-time cryptocurrency tracking and portfolio manageme
 
 ## 🖼 Screenshots
 
-
-(https://Screenshot(1276).png)
+### Home Page
+![Home Page](https://your-image-host.com/home.png)
 
 ### Dashboard
 ![Dashboard](https://your-image-host.com/dashboard.png)
@@ -55,8 +55,7 @@ CryptoTrack is a modern real-time cryptocurrency tracking and portfolio manageme
 VITE_API_URL=https://your-backend-url.com
 REACT_APP_COINGECKO_API=https://api.coingecko.com/api/v3
 
-#### Backend (`.env`)
-```env
+Backend (server/.env)
 PORT=5000
 MONGO_URI=your_mongodb_atlas_uri
 JWT_SECRET=your_secure_jwt_secret
