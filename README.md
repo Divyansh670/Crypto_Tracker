@@ -39,8 +39,7 @@ CryptoTrack is a modern real-time cryptocurrency tracking and portfolio manageme
 
 ## 🖼 Screenshots
 
-### Home Page
-![Home Page](https://your-image-host.com/home.png)
+https://github.com/Divyansh670/Crypto_Tracker/blob/main/Screenshot%20(1276).png
 
 ### Dashboard
 ![Dashboard](https://your-image-host.com/dashboard.png)
