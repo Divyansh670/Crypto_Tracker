@@ -57,8 +57,8 @@ JWT_SECRET=your_secure_jwt_secret
 
 ## 👨‍💻 Author
 **Divyansh Srivastav**
-  - GitHub: [@Divyansh670](https://www.google.com/search?q=https://github.com/Divyansh670)
-  - LinkedIn: [Divyansh Srivastav](https://www.google.com/search?q=https://www.linkedin.com/in/divyansh-srivastav)
+  - GitHub: [@Divyansh670](https://github.com/Divyansh670)
+  - LinkedIn: [Divyansh Srivastav](https://www.linkedin.com/in/divyansh-srivastav/)
 
 ## 🙏 Acknowledgments
   - **CoinGecko** — Free crypto API
